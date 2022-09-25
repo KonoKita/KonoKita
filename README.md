@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KonoKita
+- 👋 Hi, I’m Nikita
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate with designers
